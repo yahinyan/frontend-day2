@@ -1,0 +1,19 @@
+.click {
+    text-align: center;
+    margin-top: 50px;
+}
+p {
+    font-size: 17px;
+}
+#click_button {
+    padding: 10px 40px;
+    font-size: 17px;
+    border: none;
+    border-radius: 4px;
+    background-color: #3C4768;
+    color: #fff;
+    cursor: pointer;
+}
+#click_button:hover {
+    background-color: #999DAB;
+}

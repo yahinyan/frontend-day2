@@ -1,0 +1,15 @@
+p {
+    font-size: 17px;
+  }
+  button {
+    padding: 10px 40px;
+    font-size: 17px;
+    border: none;
+    border-radius: 4px;
+    background-color: #3C4768;
+    color: #fff;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #999DAB;
+  }
